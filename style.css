@@ -23,6 +23,7 @@ header {
     font-family: titulo;
     height: 150px;
     padding-top: 20px;
+    padding-bottom: 22px;
 }
 
 header > h1 {
@@ -36,6 +37,7 @@ header > p {
     width: 500px;
     padding-left: 10px;
     padding-right: 10px;
+    padding-bottom: 10px;
     margin: auto;
 }
 
